@@ -1,5 +1,11 @@
 # viem
 
+## 2.23.3
+
+### Patch Changes
+
+- [#3340](https://github.com/wevm/viem/pull/3340) [`66e5f6ab7b683a90775dcb8fae340e3154d74b38`](https://github.com/wevm/viem/commit/66e5f6ab7b683a90775dcb8fae340e3154d74b38) Thanks [@biruichen](https://github.com/biruichen)! - Added B3 multicall3.
+
 ## 2.23.2
 
 ### Patch Changes
